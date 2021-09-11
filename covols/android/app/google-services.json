@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441370581101",
+    "project_id": "covols-login",
+    "storage_bucket": "covols-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441370581101:android:17f0d74c6835534da28764",
+        "android_client_info": {
+          "package_name": "com.my.covols"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441370581101-c8p4tfto5s6s9vt4pm5th2as7t3q3ask.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDQyENJ3zaDe-2kpqcLmZkozh7Yuqeqh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441370581101-c8p4tfto5s6s9vt4pm5th2as7t3q3ask.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
